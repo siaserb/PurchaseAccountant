@@ -28,6 +28,6 @@ You can use this domain:
     * Get list of user's records by categoryId: `{domain}/api/record/items/{id}`
 
 ### Postman
-![image_2022-12-27_17-18-16](https://user-images.githubusercontent.com/98982425/209687357-db5d4de5-bc25-4288-a9b9-af4178c8876c.png)
+![image_2022-12-27_17-28-38](https://user-images.githubusercontent.com/98982425/209687788-11c33f19-d55f-4044-bc74-f31506103857.png)
 
-![image_2022-12-27_17-18-59](https://user-images.githubusercontent.com/98982425/209687384-8d7a92e6-5be4-4420-9ce2-ae6207391e7b.png)
+![image_2022-12-27_17-18-59](https://user-images.githubusercontent.com/98982425/209687837-f8b07c05-bf4c-4e4d-bbb6-b61bcfeb6e5c.png)
