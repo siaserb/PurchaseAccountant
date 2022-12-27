@@ -1,15 +1,19 @@
-### Required to install
+## Info about this project
+This is a project to account for the expenses of a certain person. <br>
+This project has an authentication system, allows you to create new users, new expense categories and new expense records for the appropriate category.
+
+## Required to install
 Installed [.NET 5.0](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-5.0.408-windows-x64-installer)  
 Installed [ASP.NET Core 5.0 Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-aspnetcore-5.0.17-windows-x64-installer)
 
-### How to run the app
+## How to run the app
 ```
 git clone https://github.com/siaserb/PurchaseAccountant.git
 cd PurchaseAccountant/PurchaseAccountant
 dotnet run
 ```
 
-### Endpoints
+## Endpoints
 You can use this domain:
 * local: `https://localhost:5001/`
 
@@ -27,7 +31,11 @@ You can use this domain:
     * Get list of user's records: `{domain}/api/record/items`
     * Get list of user's records by categoryId: `{domain}/api/record/items/{id}`
 
-### Postman
+## Postman
 ![image_2022-12-27_17-28-38](https://user-images.githubusercontent.com/98982425/209687788-11c33f19-d55f-4044-bc74-f31506103857.png)
 
 ![image_2022-12-27_17-18-59](https://user-images.githubusercontent.com/98982425/209687837-f8b07c05-bf4c-4e4d-bbb6-b61bcfeb6e5c.png)
+
+## Credits
+* Email - assiya.serb@gmail.com
+* Telegram - @siaserb
